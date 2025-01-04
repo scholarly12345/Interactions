@@ -17,3 +17,5 @@ https://www.trustpilot.com/
 # Text, List of Star Wars films
 
 # Text, The Irregular at Magic High School
+
+# Text, List of Claymore episodes
