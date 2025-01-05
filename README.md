@@ -19,3 +19,13 @@ https://www.trustpilot.com/
 # Text, The Irregular at Magic High School
 
 # Text, List of Claymore episodes
+
+# Text, https://youtu.be/z9JZB08qy44?si=W2xY1pTKAMiNirtw
+
+# Text, Is This a Zombie?
+
+# Text, House of Cards
+
+# Text, Justice League (film)
+
+# Text, League of Legends
